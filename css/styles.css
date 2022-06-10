@@ -553,7 +553,7 @@ background-color: var(--secondary-bg-color);
     position: absolute;
     top: 0;
 
-    transform: translateY(100%);
+    transform: translateY(101%);
     transition: transform 250ms var(--primary-cubic);
 
     padding: 63px 24px;
